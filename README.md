@@ -12,21 +12,15 @@ This project delivers a complete analytical solution built with Power BI to supp
 
 ✅ Faster response to critical logistics events
 
-### 🔍 Key Features
+## 🔍 Key Features
 
-Real-time geospatial analysis with Azure Maps or ArcGIS; 
-Strategic KPI calculations using DAX (e.g., OTIF, Inventory Turnover, Lead Time); 
-Robust ETL using Power Query to combine multiple data sources; 
-Automated alerts for logistics failures or critical stock levels
+Real-time geospatial analysis with Azure Maps or ArcGIS;Strategic KPI calculations using DAX (e.g., OTIF, Inventory Turnover, Lead Time);Robust ETL using Power Query to combine multiple data sources;Automated alerts for logistics failures or critical stock levels.
 
-### 📊 Included Dashboards
+## 📊 Included Dashboards
 
-Overview – Key KPIs and time-based performance trends; 
-Logistics Map – Warehouse locations, routes, and delivery status;
-Inventory Management – Coverage analysis, turnover, and stock alerts;
-Supplier Performance – Ranking and SLA compliance trends.
+Overview – Key KPIs and time-based performance trends;Logistics Map – Warehouse locations, routes, and delivery status;Inventory Management – Coverage analysis, turnover, and stock alerts;Supplier Performance – Ranking and SLA compliance trends.
 
-### 📁 Project Structure
+## 📁 Project Structure
 
 📁 data         |→ Sample or anonymized datasets
 
@@ -40,15 +34,11 @@ Supplier Performance – Ranking and SLA compliance trends.
 
 README.md       |→ Project description and usage guide
 
-### 🧰 Technologies Used
+## 🧰 Technologies Used
 
-Power BI Desktop / Power BI Service;
-Power Query (M);
-DAX;
-Azure Maps / ArcGIS;
-Integration with RESTful APIs.
+Power BI Desktop / Power BI Service;Power Query (M);DAX;Azure Maps / ArcGIS;Integration with RESTful APIs.
 
-### 📌 Final Objective
+## 📌 Final Objective
 
 Transform dispersed raw data into actionable logistics intelligence, providing management with automated visual tools for proactive decision-making.
 
