@@ -22,9 +22,13 @@ Automated alerts for logistics failures or critical stock levels
 📊 Included Dashboards
 
 Overview – Key KPIs and time-based performance trends
+
 Logistics Map – Warehouse locations, routes, and delivery status
+
 Inventory Management – Coverage analysis, turnover, and stock alerts
+
 Supplier Performance – Ranking and SLA compliance trends
+
 📁 Project Structure
 📁 data/         → Sample or anonymized datasets
 📁 pbix/         → Power BI report file (.pbix)
