@@ -21,13 +21,10 @@ Automated alerts for logistics failures or critical stock levels
 
 ## 📊 Included Dashboards
 
-Overview – Key KPIs and time-based performance trends
-
-Logistics Map – Warehouse locations, routes, and delivery status
-
-Inventory Management – Coverage analysis, turnover, and stock alerts
-
-Supplier Performance – Ranking and SLA compliance trends
+Overview – Key KPIs and time-based performance trends; 
+Logistics Map – Warehouse locations, routes, and delivery status;
+Inventory Management – Coverage analysis, turnover, and stock alerts;
+Supplier Performance – Ranking and SLA compliance trends.
 
 ## 📁 Project Structure
 
@@ -45,15 +42,11 @@ README.md       → Project description and usage guide
 
 ## 🧰 Technologies Used
 
-Power BI Desktop / Power BI Service
-
-Power Query (M)
-
-DAX
-
-Azure Maps / ArcGIS
-
-Integration with RESTful APIs
+Power BI Desktop / Power BI Service;
+Power Query (M);
+DAX;
+Azure Maps / ArcGIS;
+Integration with RESTful APIs.
 
 ## 📌 Final Objective
 
