@@ -12,7 +12,7 @@ This project delivers a complete analytical solution built with Power BI to supp
 
 ✅ Faster response to critical logistics events
 
-## 🔍 Key Features
+### 🔍 Key Features
 
 Real-time geospatial analysis with Azure Maps or ArcGIS; 
 Strategic KPI calculations using DAX (e.g., OTIF, Inventory Turnover, Lead Time); 
