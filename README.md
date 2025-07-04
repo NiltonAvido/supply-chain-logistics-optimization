@@ -14,7 +14,7 @@ This project delivers a complete analytical solution built with Power BI to supp
 
 ## 🔍 Key Features
 
-Real-time geospatial analysis with Azure Maps or ArcGIS;Strategic KPI calculations using DAX (e.g., OTIF, Inventory Turnover, Lead Time);Robust ETL using Power Query to combine multiple data sources;Automated alerts for logistics failures or critical stock levels.
+Real-time geospatial analysis with Azure Maps or ArcGIS; Strategic KPI calculations using DAX (e.g., OTIF, Inventory Turnover, Lead Time); Robust ETL using Power Query to combine multiple data sources; Automated alerts for logistics failures or critical stock levels.
 
 ## 📊 Included Dashboards
 
