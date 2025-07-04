@@ -1,4 +1,4 @@
-# 🚚 Supply Chain & Logistics Optimization (Power BI)
+## 🚚 Supply Chain & Logistics Optimization (Power BI)
 
 This project delivers a complete analytical solution built with Power BI to support the monitoring and optimization of supply chain and logistics operations. It integrates data from ERP systems, WMS platforms, and carrier APIs, enabling an end-to-end view of the logistics flow — from supplier to final customer delivery. Through interactive dashboards and analytical intelligence, it enables:
 
