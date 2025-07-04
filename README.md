@@ -36,7 +36,7 @@ README.md       |→ Project description and usage guide
 
 ## 🧰 Technologies Used
 
-Power BI Desktop / Power BI Service;Power Query (M);DAX;Azure Maps / ArcGIS;Integration with RESTful APIs.
+Power BI Desktop / Power BI Service; Power Query (M); DAX;Azure Maps / ArcGIS; Integration with RESTful APIs.
 
 ## 📌 Final Objective
 
