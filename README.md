@@ -18,7 +18,7 @@ Real-time geospatial analysis with Azure Maps or ArcGIS; Strategic KPI calculati
 
 ## 📊 Included Dashboards
 
-Overview – Key KPIs and time-based performance trends;Logistics Map – Warehouse locations, routes, and delivery status;Inventory Management – Coverage analysis, turnover, and stock alerts;Supplier Performance – Ranking and SLA compliance trends.
+Overview – Key KPIs and time-based performance trends;Logistics Map – Warehouse locations, routes, and delivery status;Inventory Management – Coverage analysis, turnover, and stock alerts;Supplier Performance – Ranking and SLA compliance trends; Strategic KPI calculations using DAX (e.g., OTIF, Inventory Turnover, Lead Time);.
 
 ## 📁 Project Structure
 
