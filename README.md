@@ -28,17 +28,17 @@ Supplier Performance – Ranking and SLA compliance trends.
 
 ### 📁 Project Structure
 
-📁 data|         → Sample or anonymized datasets
+📁 data         |→ Sample or anonymized datasets
 
-📁 pbix|         → Power BI report file (.pbix)
+📁 pbix         |→ Power BI report file (.pbix)
 
-📁 docs|         → Technical documentation and diagrams
+📁 docs         |→ Technical documentation and diagrams
 
-📁 scripts|      → DAX metrics and Power Query (M) scripts
+📁 scripts      |→ DAX metrics and Power Query (M) scripts
 
-📁 images|       → Dashboard screenshots
+📁 images       |→ Dashboard screenshots
 
-README.md       → Project description and usage guide
+README.md       |→ Project description and usage guide
 
 ### 🧰 Technologies Used
 
